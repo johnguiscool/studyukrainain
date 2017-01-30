@@ -1,0 +1,7 @@
+﻿Where are you from?
+I'm from America.  And you?
+I'm from Ukraine.
+Are you a student?
+Yes, I'm a student.
+And you?  Are you also a student?
+No, I work.

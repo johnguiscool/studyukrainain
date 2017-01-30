@@ -1,0 +1,8 @@
+﻿Does your dad work?
+Yes, he works.
+What is his profession?
+He is an engineer.
+Does your mother work?
+Yes, she also works.
+What is her profession?
+She is a doctor.

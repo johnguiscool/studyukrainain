@@ -1,0 +1,244 @@
+[11-Jun-2016 15:17:29 UTC] PHP Warning:  file_get_contents(words.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/test.php on line 8
+[11-Jun-2016 15:17:29 UTC] PHP Warning:  preg_replace(): Unknown modifier 'g' in /home/learnukr/public_html/test.php on line 10
+[11-Jun-2016 15:18:44 UTC] PHP Warning:  preg_replace(): Unknown modifier 'g' in /home/learnukr/public_html/test.php on line 10
+[11-Jun-2016 18:06:01 UTC] PHP Parse error:  syntax error, unexpected '$phrases_ukrainian' (T_VARIABLE) in /home/learnukr/public_html/generator.php on line 29
+[11-Jun-2016 18:07:37 UTC] PHP Parse error:  syntax error, unexpected '$phrases_ukrainian' (T_VARIABLE) in /home/learnukr/public_html/generator.php on line 29
+[11-Jun-2016 18:11:31 UTC] PHP Parse error:  syntax error, unexpected '$phrases_ukrainian' (T_VARIABLE) in /home/learnukr/public_html/generator.php on line 29
+[11-Jun-2016 18:11:34 UTC] PHP Parse error:  syntax error, unexpected '$phrases_ukrainian' (T_VARIABLE) in /home/learnukr/public_html/generator.php on line 29
+[11-Jun-2016 18:12:52 UTC] PHP Parse error:  syntax error, unexpected '$phrases_ads' (T_VARIABLE) in /home/learnukr/public_html/generator.php on line 29
+[11-Jun-2016 18:14:05 UTC] PHP Parse error:  syntax error, unexpected '$phrases_ukrainian' (T_VARIABLE) in /home/learnukr/public_html/generator.php on line 29
+[11-Jun-2016 18:47:06 UTC] PHP Parse error:  syntax error, unexpected '$speaker' (T_VARIABLE) in /home/learnukr/public_html/generator.php on line 50
+[11-Jun-2016 18:57:54 UTC] PHP Warning:  file_get_contents(/texts/englishphrases01.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generator.php on line 18
+[11-Jun-2016 18:58:55 UTC] PHP Warning:  file_get_contents(/'/texts/englishphrases01.txt/'): failed to open stream: No such file or directory in /home/learnukr/public_html/generator.php on line 18
+[11-Jun-2016 18:59:44 UTC] PHP Warning:  file_get_contents('/texts/englishphrases01.txt'): failed to open stream: No such file or directory in /home/learnukr/public_html/generator.php on line 18
+[11-Jun-2016 19:02:29 UTC] PHP Warning:  file_get_contents('./texts/englishphrases01.txt'): failed to open stream: No such file or directory in /home/learnukr/public_html/generator.php on line 18
+[11-Jun-2016 19:05:15 UTC] PHP Warning:  file_get_contents('./texts/englishphrases01.txt',true): failed to open stream: No such file or directory in /home/learnukr/public_html/generator.php on line 18
+[11-Jun-2016 19:29:20 UTC] PHP Warning:  file_get_contents(speaker01.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generator.php on line 55
+[11-Jun-2016 19:42:11 UTC] PHP Warning:  file_get_contents(./texts/englishphrasesdialogue_index.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generator.php on line 30
+[11-Jun-2016 19:46:40 UTC] PHP Warning:  file_get_contents(./texts/speaker0101.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generator.php on line 69
+[15-Jun-2016 21:51:14 UTC] PHP Warning:  file_get_contents(./texts/englishphrases04.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue04.php on line 33
+[15-Jun-2016 21:51:14 UTC] PHP Warning:  file_get_contents(./texts/ukrainianphrases04.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue04.php on line 51
+[15-Jun-2016 21:51:14 UTC] PHP Warning:  file_get_contents(./texts/speaker04.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue04.php on line 69
+[04-Jul-2016 10:50:02 UTC] PHP Parse error:  syntax error, unexpected '$dialogue_index' (T_VARIABLE) in /home/learnukr/public_html/generator.php on line 21
+[04-Jul-2016 10:54:26 UTC] PHP Warning:  file_get_contents(./texts/englishphrases05.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue05.php on line 34
+[04-Jul-2016 10:54:26 UTC] PHP Warning:  file_get_contents(./texts/ukrainianphrases05.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue05.php on line 52
+[04-Jul-2016 10:54:26 UTC] PHP Warning:  file_get_contents(./texts/speaker05.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue05.php on line 70
+[04-Jul-2016 10:56:24 UTC] PHP Warning:  file_get_contents(./texts/englishphrases05.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue05.php on line 34
+[04-Jul-2016 10:56:24 UTC] PHP Warning:  file_get_contents(./texts/ukrainianphrases05.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue05.php on line 52
+[04-Jul-2016 10:56:24 UTC] PHP Warning:  file_get_contents(./texts/speaker05.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue05.php on line 70
+[05-Jul-2016 07:51:19 UTC] PHP Warning:  file_get_contents(./texts/speaker07.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/dialogue07.php on line 70
+[17-Aug-2016 12:38:39 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 87
+[17-Aug-2016 12:39:46 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 87
+[17-Aug-2016 12:40:52 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 87
+[17-Aug-2016 12:41:33 UTC] PHP Warning:  file_get_contents(/texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 87
+[17-Aug-2016 12:44:54 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 87
+[17-Aug-2016 12:47:05 UTC] PHP Warning:  file_get_contents(./texts/englishphrases0.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 93
+[17-Aug-2016 12:52:27 UTC] PHP Warning:  file_get_contents(./texts/englishphrases0.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 93
+[17-Aug-2016 13:37:50 UTC] PHP Warning:  file_get_contents(/texts/englishphrases01.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 95
+[17-Aug-2016 13:38:38 UTC] PHP Warning:  file_get_contents(../texts/englishphrases01.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 95
+[17-Aug-2016 13:40:22 UTC] PHP Warning:  file_get_contents(./texts/englishphrases0.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 95
+[17-Aug-2016 13:46:51 UTC] PHP Warning:  file_get_contents(./texts/englishphrases0d.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 102
+[17-Aug-2016 14:07:09 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/learnukr/public_html/generalized_quiz.php on line 85
+[17-Aug-2016 14:07:38 UTC] PHP Warning:  file_get_contents(./texts/englishphrases0.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:07:38 UTC] PHP Warning:  file_get_contents(./texts/englishphrases0.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:08:00 UTC] PHP Warning:  file_get_contents(./texts/englishphrases0.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:08:00 UTC] PHP Warning:  file_get_contents(./texts/englishphrases0.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:11:25 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:11:25 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:12:57 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:12:57 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:13:06 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:13:06 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:13:19 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:13:19 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:13:39 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:13:39 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:14:52 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:14:52 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:15:03 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:15:03 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:22:09 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:22:13 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:24:19 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:24:22 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 113
+[17-Aug-2016 14:26:04 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 114
+[17-Aug-2016 14:26:07 UTC] PHP Warning:  file_get_contents(./texts/englishphrases00.txt): failed to open stream: No such file or directory in /home/learnukr/public_html/generalized_quiz.php on line 114
+[17-Aug-2016 15:13:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/learnukr/public_html/generalized_quiz.php on line 232
+[18-Aug-2016 16:24:05 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/learnukr/public_html/exitquiz.php on line 33
+[18-Aug-2016 16:24:05 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, string given in /home/learnukr/public_html/exitquiz.php on line 34
+[18-Aug-2016 19:59:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/learnukr/public_html/exitquiz.php on line 54
+[18-Aug-2016 20:05:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/learnukr/public_html/exitquiz.php on line 48
+[18-Aug-2016 21:23:53 UTC] PHP Fatal error:  Call to undefined function now() in /home/learnukr/public_html/exitquiz.php on line 78
+[18-Aug-2016 21:26:11 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/learnukr/public_html/exitquiz.php on line 78
+[18-Aug-2016 21:26:11 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/learnukr/public_html/exitquiz.php on line 78
+[18-Aug-2016 21:26:11 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/learnukr/public_html/exitquiz.php on line 78
+[19-Aug-2016 15:35:26 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/learnukr/public_html/review01.php on line 77
+[20-Aug-2016 13:29:32 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/learnukr/public_html/review01.php on line 98
+[20-Aug-2016 13:36:15 UTC] PHP Fatal error:  main(): Cannot write property in /home/learnukr/public_html/review01.php on line 102
+[24-Aug-2016 14:52:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/learnukr/public_html/dialogue01.php on line 158
+[24-Aug-2016 18:45:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/learnukr/public_html/dialogue01.php:4) in /home/learnukr/public_html/dialogue01.php on line 6
+[24-Aug-2016 19:24:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/learnukr/public_html/dialogue01.php on line 11
+[25-Aug-2016 09:40:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/learnukr/public_html/logout.php:3) in /home/learnukr/public_html/logout.php on line 4
+[25-Aug-2016 09:45:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/learnukr/public_html/login.php on line 39
+[25-Aug-2016 10:21:52 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/learnukr/public_html/dialogue01.php on line 46
+[25-Aug-2016 10:56:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/learnukr/public_html/dialogue01.php on line 173
+[25-Aug-2016 11:40:23 UTC] PHP Parse error:  syntax error, unexpected '$login_message' (T_VARIABLE) in /home/learnukr/public_html/dialogue01.php on line 62
+[25-Aug-2016 12:01:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/learnukr/public_html/welcome.php on line 8
+[05-Sep-2016 11:42:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/learnukr/public_html/dialogue06.php:1) in /home/learnukr/public_html/dialogue06.php on line 53
+[05-Sep-2016 11:44:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/learnukr/public_html/dialogue06.php:1) in /home/learnukr/public_html/dialogue06.php on line 53
+[06-Sep-2016 17:54:39 UTC] PHP Parse error:  syntax error, unexpected 'Add' (T_STRING) in /home/learnukr/public_html/generalized_quiz.php on line 77
+[07-Sep-2016 16:38:40 UTC] PHP Parse error:  syntax error, unexpected '16' (T_LNUMBER), expecting variable (T_VARIABLE) in /home/learnukr/public_html/success.php on line 51
+[07-Sep-2016 18:49:23 UTC] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home/learnukr/public_html/welcome.php on line 118
+[07-Sep-2016 18:57:22 UTC] PHP Warning:  password_hash(): Provided salt is too short: 16 expecting 22 in /home/learnukr/public_html/success.php on line 51
+[07-Sep-2016 18:58:08 UTC] PHP Warning:  password_hash(): Provided salt is too short: 16 expecting 22 in /home/learnukr/public_html/welcome.php on line 105
+[07-Sep-2016 19:04:56 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/learnukr/public_html/welcome.php on line 118
+[07-Sep-2016 19:05:47 UTC] PHP Warning:  password_hash(): Provided salt is too short: 16 expecting 22 in /home/learnukr/public_html/welcome.php on line 105
+[10-Sep-2016 09:47:50 UTC] PHP Fatal error:  Call to undefined function generate_login_message() in /home/learnukr/public_html/about.php on line 14
+[10-Sep-2016 09:51:29 UTC] PHP Fatal error:  Call to undefined function generate_login_message() in /home/learnukr/public_html/about.php on line 14
+[10-Sep-2016 09:59:14 UTC] PHP Fatal error:  Call to undefined function generate_login_message() in /home/learnukr/public_html/about.php on line 30
+[10-Sep-2016 10:00:01 UTC] PHP Fatal error:  Call to undefined function generate_login_message() in /home/learnukr/public_html/about.php on line 31
+[10-Sep-2016 10:00:05 UTC] PHP Fatal error:  Call to undefined function generate_login_message() in /home/learnukr/public_html/about.php on line 31
+[10-Sep-2016 10:01:28 UTC] PHP Fatal error:  Call to undefined function generate_login_message() in /home/learnukr/public_html/about.php on line 31
+[10-Sep-2016 10:02:46 UTC] PHP Fatal error:  Call to undefined function generate_login_message() in /home/learnukr/public_html/about.php on line 31
+[10-Sep-2016 10:03:08 UTC] PHP Fatal error:  Call to undefined function generate_login_message() in /home/learnukr/public_html/about.php on line 31
+[10-Sep-2016 10:34:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/learnukr/public_html/php/utility.php on line 9
+[10-Sep-2016 10:49:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/learnukr/public_html/generalized_quiz.php on line 401
+[10-Sep-2016 10:50:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/learnukr/public_html/generalized_quiz.php on line 400
+[10-Sep-2016 10:50:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/learnukr/public_html/generalized_quiz.php on line 400
+[14-Sep-2016 18:31:38 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/learnukr/public_html/success.php on line 317
+[14-Sep-2016 19:04:41 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/learnukr/public_html/success.php on line 317
+[14-Sep-2016 19:40:41 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[14-Sep-2016 19:40:43 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[14-Sep-2016 19:40:44 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[14-Sep-2016 19:40:46 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[14-Sep-2016 19:40:47 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[14-Sep-2016 19:40:48 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[14-Sep-2016 19:40:49 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[14-Sep-2016 19:40:51 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[14-Sep-2016 19:40:52 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[14-Sep-2016 20:33:28 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 105
+[17-Sep-2016 15:15:34 UTC] PHP Warning:  mysqli_stmt::execute() expects exactly 0 parameters, 1 given in /home/learnukr/public_html/welcome.php on line 61
+[17-Sep-2016 20:59:31 UTC] PHP Warning:  mysqli_stmt::execute() expects exactly 0 parameters, 1 given in /home/learnukr/public_html/welcome.php on line 61
+[18-Sep-2016 07:46:07 UTC] PHP Warning:  mysqli_stmt::execute() expects exactly 0 parameters, 1 given in /home/learnukr/public_html/welcome.php on line 61
+[18-Sep-2016 07:46:34 UTC] PHP Warning:  mysqli_stmt::execute() expects exactly 0 parameters, 1 given in /home/learnukr/public_html/welcome.php on line 61
+[18-Sep-2016 07:49:18 UTC] PHP Warning:  mysqli_stmt::execute() expects exactly 0 parameters, 1 given in /home/learnukr/public_html/welcome.php on line 61
+[18-Sep-2016 07:50:58 UTC] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/learnukr/public_html/welcome.php on line 58
+[18-Sep-2016 07:51:27 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:53:02 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:53:52 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:55:05 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:55:07 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:55:08 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:55:08 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:55:09 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:55:10 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:55:11 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 07:55:11 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 115
+[18-Sep-2016 08:01:45 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 119
+[18-Sep-2016 08:01:48 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 119
+[18-Sep-2016 08:01:49 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 119
+[18-Sep-2016 08:01:50 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 119
+[18-Sep-2016 08:05:10 UTC] PHP Warning:  Attempt to assign property of non-object in /home/learnukr/public_html/welcome.php on line 92
+[18-Sep-2016 08:05:23 UTC] PHP Warning:  Attempt to assign property of non-object in /home/learnukr/public_html/welcome.php on line 92
+[18-Sep-2016 08:24:37 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/learnukr/public_html/welcome.php on line 59
+[18-Sep-2016 08:48:27 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/learnukr/public_html/welcome.php on line 87
+[18-Sep-2016 08:48:46 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/learnukr/public_html/welcome.php on line 87
+[18-Sep-2016 09:02:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/learnukr/public_html/welcome.php on line 70
+[18-Sep-2016 09:02:45 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::bind_parameters() in /home/learnukr/public_html/welcome.php on line 70
+[18-Sep-2016 09:03:07 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 127
+[18-Sep-2016 09:03:24 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 127
+[18-Sep-2016 09:50:14 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 140
+[18-Sep-2016 09:50:59 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 140
+[18-Sep-2016 09:53:12 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 140
+[18-Sep-2016 09:58:33 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/learnukr/public_html/welcome.php on line 119
+[18-Sep-2016 10:08:13 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/learnukr/public_html/welcome.php on line 119
+[18-Sep-2016 10:10:37 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/learnukr/public_html/welcome.php on line 119
+[18-Sep-2016 10:11:20 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 163
+[18-Sep-2016 10:11:45 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 163
+[18-Sep-2016 10:12:29 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 163
+[18-Sep-2016 10:13:57 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 163
+[18-Sep-2016 10:14:44 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 164
+[18-Sep-2016 10:15:39 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 164
+[18-Sep-2016 10:20:59 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 165
+[18-Sep-2016 10:21:29 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 165
+[18-Sep-2016 10:42:46 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 178
+[18-Sep-2016 10:43:45 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 178
+[18-Sep-2016 10:50:51 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/learnukr/public_html/welcome.php on line 75
+[18-Sep-2016 10:50:51 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 178
+[18-Sep-2016 10:51:19 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 178
+[18-Sep-2016 10:51:38 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 178
+[18-Sep-2016 10:52:16 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 165
+[18-Sep-2016 11:00:13 UTC] PHP Warning:  printf(): Too few arguments in /home/learnukr/public_html/welcome.php on line 86
+[18-Sep-2016 11:00:13 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 166
+[18-Sep-2016 11:00:31 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 166
+[18-Sep-2016 11:05:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/learnukr/public_html/welcome.php on line 91
+[18-Sep-2016 11:07:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/learnukr/public_html/welcome.php on line 85
+[18-Sep-2016 11:09:47 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/learnukr/public_html/welcome.php on line 85
+[18-Sep-2016 11:15:06 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 172
+[18-Sep-2016 11:16:06 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 171
+[18-Sep-2016 11:28:57 UTC] PHP Fatal error:  Call to undefined function generate_login_message() in /home/learnukr/public_html/welcome.php on line 171
+[18-Sep-2016 11:30:38 UTC] PHP Warning:  Missing argument 1 for generate_login_message(), called in /home/learnukr/public_html/welcome.php on line 173 and defined in /home/learnukr/public_html/php/utility.php on line 3
+[30-Sep-2016 14:49:19 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/learnukr/public_html/generalized_quiz.php on line 65
+[04-Oct-2016 15:22:56 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[04-Oct-2016 15:23:45 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[04-Oct-2016 15:23:47 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[04-Oct-2016 15:23:48 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[04-Oct-2016 15:23:48 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[04-Oct-2016 15:23:49 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[04-Oct-2016 15:23:50 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[04-Oct-2016 15:23:56 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[05-Oct-2016 12:25:01 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/learnukr/public_html/success.php on line 357
+[05-Oct-2016 12:25:01 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/learnukr/public_html/success.php on line 358
+[05-Oct-2016 12:25:01 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/learnukr/public_html/success.php on line 359
+[05-Oct-2016 12:26:14 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/learnukr/public_html/success.php on line 357
+[05-Oct-2016 12:32:14 UTC] PHP Fatal error:  Cannot pass parameter 2 by reference in /home/learnukr/public_html/success.php on line 357
+[05-Oct-2016 12:37:39 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/learnukr/public_html/success.php on line 357
+[05-Oct-2016 18:35:56 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/learnukr/public_html/php/utility.php on line 57
+[05-Oct-2016 18:37:00 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home/learnukr/public_html/php/utility.php on line 26
+[05-Oct-2016 18:38:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/learnukr/public_html/php/utility.php on line 30
+[05-Oct-2016 18:39:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/learnukr/public_html/php/utility.php on line 30
+[05-Oct-2016 18:39:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/learnukr/public_html/php/utility.php on line 58
+[05-Oct-2016 18:40:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/learnukr/public_html/php/utility.php on line 58
+[05-Oct-2016 19:16:42 UTC] PHP Fatal error:  Call to undefined function check_against_whitelist() in /home/learnukr/public_html/success.php on line 298
+[15-Oct-2016 04:08:15 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[16-Oct-2016 21:10:44 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[16-Oct-2016 21:10:49 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[02-Jan-2017 18:53:06 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[16-Jan-2017 13:37:14 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[16-Jan-2017 13:38:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/learnukr/public_html/exitquiz.php on line 210
+[17-Jan-2017 10:20:03 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/learnukr/public_html/exitquiz.php on line 31
+[17-Jan-2017 10:22:18 UTC] PHP Fatal error:  Call to undefined function dump() in /home/learnukr/public_html/exitquiz.php on line 32
+[17-Jan-2017 16:12:15 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[17-Jan-2017 16:12:31 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[17-Jan-2017 16:12:38 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[17-Jan-2017 16:28:56 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[28-Jan-2017 18:05:42 UTC] PHP Parse error:  syntax error, unexpected 'ar_dump' (T_STRING) in /home/learnukr/public_html/generalized_quiz.php on line 200
+[28-Jan-2017 18:05:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/learnukr/public_html/generalized_quiz.php on line 231
+[28-Jan-2017 18:06:23 UTC] PHP Fatal error:  Using $this when not in object context in /home/learnukr/public_html/generalized_quiz.php on line 256
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 256
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 257
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 256
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 257
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 256
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 257
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 256
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 257
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 256
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 257
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 256
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 257
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 256
+[28-Jan-2017 18:06:49 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/learnukr/public_html/generalized_quiz.php on line 257
+[28-Jan-2017 18:09:28 UTC] PHP Fatal error:  Call to undefined function convert() in /home/learnukr/public_html/generalized_quiz.php on line 199
+[28-Jan-2017 18:11:26 UTC] PHP Fatal error:  Call to undefined function convert() in /home/learnukr/public_html/generalized_quiz.php on line 201
+[28-Jan-2017 18:11:29 UTC] PHP Fatal error:  Call to undefined function convert() in /home/learnukr/public_html/generalized_quiz.php on line 201
+[28-Jan-2017 18:11:54 UTC] PHP Fatal error:  Call to undefined function convert() in /home/learnukr/public_html/generalized_quiz.php on line 201
+[28-Jan-2017 18:11:55 UTC] PHP Fatal error:  Call to undefined function convert() in /home/learnukr/public_html/generalized_quiz.php on line 201
+[28-Jan-2017 18:14:24 UTC] PHP Fatal error:  Call to undefined function convert() in /home/learnukr/public_html/generalized_quiz.php on line 202
+[28-Jan-2017 18:31:26 UTC] PHP Fatal error:  Class 'TranslitUk' not found in /home/learnukr/public_html/generalized_quiz.php on line 199
+[29-Jan-2017 18:42:15 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[29-Jan-2017 19:50:55 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 143
+[29-Jan-2017 20:09:38 UTC] PHP Fatal error:  Call to undefined function check_against_whitelist() in /home/learnukr/public_html/welcome.php on line 24
+[29-Jan-2017 20:10:05 UTC] PHP Fatal error:  Cannot redeclare generate_login_message() (previously declared in /home/learnukr/public_html/php/utility.php:3) in /home/learnukr/public_html/php/utility.php on line 17
+[29-Jan-2017 20:14:15 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 168
+[29-Jan-2017 20:14:15 UTC] PHP Fatal error:  Cannot redeclare generate_login_message() (previously declared in /home/learnukr/public_html/php/utility.php:3) in /home/learnukr/public_html/php/utility.php on line 17

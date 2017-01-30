@@ -1,0 +1,11 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^www\.learnukrainan\.com$ "http\:\/\/www\.learnukrainan\.com\/index\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^learnukrainan\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.learnukrainan\.com$
+RewriteRule ^/?$ "http\:\/\/www\.learnukrainan\.com\/index\.php" [R=301,L]
+

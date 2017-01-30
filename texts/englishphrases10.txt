@@ -1,0 +1,13 @@
+﻿What's your name?
+My name is Sofia.  And you?
+My name is John.
+Do you want to have lunch with me?
+Yes!  Let's do it!
+Why are you learning Ukrainian language?
+Because I want to work in Ukraine.
+What is your profession?
+I'm a programmer.
+Where do you work?
+Right now I work in Turkey.
+But I want to work in Ukraine.
+I'm looking for work in Ukraine.

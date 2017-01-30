@@ -1,0 +1,10 @@
+﻿Do you want to visit this village?
+I want to, but I can't
+Why not?
+I don't have a car.
+In order to go there a car is needed.
+But Anton has a car.
+You can borrow his car.
+Good idea.
+Do you want to go to this village with me?
+Yes!
