@@ -1,5 +1,8 @@
 <?php
 
+include $_SERVER['DOCUMENT_ROOT'].'/php/utility.php';
+
+
 ///////////////////////////////////////////////////////////
 //
 //  INITIALIZE DIALOGUE VARIABLE
@@ -54,6 +57,15 @@ $ukrainian_path    =$texts_path."ukrainianphrases".$dialogue_index.".txt";
 $speaker_path      =$texts_path."speaker".$dialogue_index.".txt";
 
 
+////////////////////////////////////////////////////////////
+//
+//  SET EXPLANATION LINK 
+//
+////////////////////////////////////////////////////////////
+
+$explanation_link = "http://www.studyukrainian.com/lessons/explanation.php?dialogue=".$dialogue_number;
+
+
 ////////////////////////////////////////////////////////
 //
 //  SESSION SPECIFIC STUFF
@@ -82,7 +94,6 @@ else
 }
 
 
-include $_SERVER['DOCUMENT_ROOT'].'/php/utility.php';
 $header_login_message =  generate_login_message($username);
 
 /////////////////////////////////////////////////////
@@ -229,6 +240,13 @@ if(isset($username)){
 
 
 
+
+
+
+
+
+
+
 ﻿<html>
 <head>
 <link rel="stylesheet" type="text/css" href="/css/style2.css">
@@ -286,6 +304,11 @@ Your browser does not support the audio element.
 <p align = "middle">
 
 <button type="button" onclick="toggleTransliteration()" id="toggleTransliterationButton">Show Cyrillic</button>
+
+<p align = "middle">
+
+<button type="button" onclick="openExplanationWindow()"> Show Grammar Explanation </button>
+
 <p align = "middle">
 
 <a href="lessons.php?dialogue=<?=$dialogue_next?>">  Next Dialogue</a>
@@ -436,6 +459,12 @@ function toggleTransliteration()
 	
 	document.getElementById("dialogueTable").innerHTML = cumulativeTableEntries;
 
+}
+
+
+function openExplanationWindow()
+{
+	window.open(<?php echo json_encode($explanation_link) ?>, "_blank", "toolbar=no,scrollbars=yes,resizable=yes,top=200,left=500,width=600,height=400");
 }
 
 
