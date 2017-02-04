@@ -122,7 +122,7 @@ a.hdsflink
 
 a.hdsflink:hover
 {
-    text-decoration: none;
+    text-decoration: underline;
 
     color: red;
 
@@ -142,6 +142,7 @@ img.banner-title
     top: 38px;
     left: 23px;
     width: 700px;
+    z-index: 1;
 
 }
 
