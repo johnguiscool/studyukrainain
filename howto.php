@@ -65,7 +65,7 @@ We recommend going through the following process with each lesson:
 
 <p>
 
-<li> Once you have added some phrases to your phrasebook, they will start to show up in your daily personal quiz.  During each quiz, you will be prompted on how to say certain phrases in Ukrainian.  Try to speak the phrases aloud and then check your answer against the audio recording.  Don't worry if you struggle with remembering a phrase at first.  Research shows that the best way to learn new words and phrases in a foreign langauge is by trying to recall these phrases multiple times.  After practicing these phrases many times, they will be cemented in your memory.  Check your daily personal quiz every day by clicking on the "Daily Personal Quiz" link in the sidebar. <br> 
+<li> Once you have added some phrases to your phrasebook, they will start to show up in your daily personal quiz.  During each quiz, you will be prompted on how to say certain phrases in Ukrainian.  Try to speak the phrases aloud and then check your answer against the audio recording.  Don't worry if you struggle with remembering a phrase at first.  Research shows that the best way to learn new words and phrases in a foreign language is by trying to recall these phrases multiple times.  After practicing these phrases many times, they will be cemented in your memory.  Check your daily personal quiz every day by clicking on the "Daily Personal Quiz" link in the sidebar. <br> 
 <img class="howto" src="/website_pictures/howto5.png">
 </li>
 

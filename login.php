@@ -17,7 +17,7 @@ else{
 			<table>
 			<h1>Login</h1>
 			
-			<form action=\"welcome.php\" method=\"post\">
+			<form action=\"loginattempt.php\" method=\"post\">
 			
 			<tr>
 			<td>

@@ -242,3 +242,7 @@
 [29-Jan-2017 20:10:05 UTC] PHP Fatal error:  Cannot redeclare generate_login_message() (previously declared in /home/learnukr/public_html/php/utility.php:3) in /home/learnukr/public_html/php/utility.php on line 17
 [29-Jan-2017 20:14:15 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/welcome.php on line 168
 [29-Jan-2017 20:14:15 UTC] PHP Fatal error:  Cannot redeclare generate_login_message() (previously declared in /home/learnukr/public_html/php/utility.php:3) in /home/learnukr/public_html/php/utility.php on line 17
+[31-Jan-2017 21:27:28 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/loginattempt.php on line 171
+[31-Jan-2017 21:27:29 UTC] PHP Fatal error:  Cannot redeclare generate_login_message() (previously declared in /home/learnukr/public_html/php/utility.php:3) in /home/learnukr/public_html/php/utility.php on line 17
+[31-Jan-2017 21:30:25 UTC] PHP Fatal error:  Cannot redeclare generate_login_message() (previously declared in /home/learnukr/public_html/php/utility.php:3) in /home/learnukr/public_html/php/utility.php on line 17
+[31-Jan-2017 21:50:10 UTC] PHP Warning:  password_hash(): Non-string salt parameter supplied in /home/learnukr/public_html/loginattempt.php on line 171

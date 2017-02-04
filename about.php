@@ -40,7 +40,8 @@ $header_login_message =  generate_login_message($username);
 
 <div class = "relative">
 
-<h2> The Learn Ukrainian Team</h2>
+
+<h2> The Study Ukrainian Team</h2>
 
 
 <u>Art</u>
